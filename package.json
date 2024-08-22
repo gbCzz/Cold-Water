@@ -1,0 +1,11 @@
+{
+  "name": "Cold-Water",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gbCzz/Cold-Water.git",
+  "author": "Czz <Eason0208@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "oicq": "^2.3.1"
+  }
+}
